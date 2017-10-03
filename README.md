@@ -10,4 +10,8 @@ To install this application, you have to follow several steps;
   
    NOTE: IF nodejs is already installed in your server kindly skip this step.
  
-2.
+2. Install the express.Js
+ 
+       sudo npm install express --save
+
+    
