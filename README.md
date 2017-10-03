@@ -18,6 +18,6 @@ To install this application, you have to follow several steps;
        
 4. Install the express handlebar;
  
-       npm install express-handlebars
+       npm install --save express-handlebars
 
     
